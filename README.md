@@ -1,4 +1,4 @@
-<img src="github-banner-gert.png" alt="banner that says Gert Sallaerts - Full-stack developer @ Ambassify" width="100%">
+<img src="github-banner-gert-v2.png" alt="banner that says Gert Sallaerts - Full-stack developer @ Ambassify" width="100%">
 
 **My name is Gert, I'm a developer.**
 
