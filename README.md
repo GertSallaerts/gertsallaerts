@@ -4,7 +4,7 @@
 
 ### Ambassify
 
-I've been working at [@Ambassify](https://www.ambassify.com) since 2011. Ambassify is an awesome place to work at. We're always looking for more developers!
+I've been working at [Ambassify](https://www.ambassify.com) since 2011. Ambassify is an awesome place to work at. We're always looking for more developers!
 
 [Check out our Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38) and get in touch.
 
