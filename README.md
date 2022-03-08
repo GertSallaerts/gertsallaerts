@@ -8,7 +8,7 @@ I've been working at [Ambassify](https://www.ambassify.com) since 2011. Ambassif
 
 [Check out our Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38) and get in touch.
 
-![Working at Ambassify looks like this](https://ambssfy.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39e7f9ba-e744-4f32-987a-8325c69d3dfd%2FIMG-20210925-WA0020.jpg?table=block&id=7d60275d-80ab-4b0e-9175-339648bc8e85&spaceId=4146ac2e-2331-47e4-b65c-562d47b74c9f&width=2000&userId=&cache=v2)
+![Working at Ambassify looks like this](https://user-images.githubusercontent.com/1267900/157261060-21dd2631-51ba-4ce0-baf9-01511553077f.png)
 
 ### Gert
 
