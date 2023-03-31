@@ -6,7 +6,7 @@
 
 I've been working at [Ambassify](https://www.ambassify.com) since 2011. Ambassify is an awesome place to work at. We're always looking for more developers!
 
-[Check out our Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38) and get in touch.
+[Check out our Job Board]([https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38](https://www.ambassify.com/company/vacancies?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=GertSallaerts) and get in touch.
 
 ![Working at Ambassify looks like this](https://user-images.githubusercontent.com/1267900/157261060-21dd2631-51ba-4ce0-baf9-01511553077f.png)
 
